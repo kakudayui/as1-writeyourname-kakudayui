@@ -1,8 +1,8 @@
-以下を記入してください。
-氏名:苗字名前
-学籍番号:xxxxyyzzzz
+﻿以下を記入してください。
+氏名:角田悠衣
+学籍番号:1024-26-1416
 email:sample@sample.com
-GitHubアカウント名:xxxx
+GitHubアカウント名:kakudayui
 以上です。
 記入完了したら
 1．保存する。
